@@ -426,6 +426,13 @@
                 "title": "12321网络不良与垃圾信息举报受理中心",
                 "icon": "https://logo.clearbit.com/www.12321.cn",
                 "url": "https://www.12321.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1729046122188,
+                "title": "中国互联网联合辟谣平台",
+                "icon": "https://logo.clearbit.com/www.piyao.org.cn",
+                "url": "https://www.piyao.org.cn/"
               }
             ]
           },
@@ -540,6 +547,48 @@
             "title": "浙江省宗教教职人员信息查询",
             "icon": "https://logo.clearbit.com/base.zjsmzw.gov.cn",
             "url": "https://base.zjsmzw.gov.cn/portal/jiaozhiry_search.aspx"
+          },
+          {
+            "type": "folder",
+            "addDate": 1728894996806,
+            "title": "山东",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1728895077805,
+                "title": "山东省政务服务平台 - 企业注册注销",
+                "icon": "https://logo.clearbit.com/yct.amr.shandong.gov.cn",
+                "url": "https://yct.amr.shandong.gov.cn/psout/jsp/gcloud/iaicweb/homepage/apply_manage.jsp"
+              },
+              {
+                "type": "link",
+                "addDate": 1728973850376,
+                "title": "国家企业信用信息公示系统 - 企业年报",
+                "icon": "https://logo.clearbit.com/gsxt.amr.shandong.gov.cn",
+                "url": "https://gsxt.amr.shandong.gov.cn/edit/index"
+              },
+              {
+                "type": "link",
+                "addDate": 1728973960596,
+                "title": "山东省统一身份认证平台",
+                "icon": "https://logo.clearbit.com/tysfrz.isdapp.shandong.gov.cn",
+                "url": "https://tysfrz.isdapp.shandong.gov.cn/jis-web/corusercenter"
+              },
+              {
+                "type": "link",
+                "addDate": 1728895061551,
+                "title": "山东税务 - 清税申报（未办税户申请清税证明）",
+                "icon": "https://logo.clearbit.com/etax.shandong.chinatax.gov.cn",
+                "url": "https://etax.shandong.chinatax.gov.cn:8443/xxbg/view/ztxxbg/qssbswzxblwkyqs"
+              },
+              {
+                "type": "link",
+                "addDate": 1728895029208,
+                "title": "山东省电子税务局 - 新办企业套餐",
+                "icon": "https://logo.clearbit.com/etax.shandong.chinatax.gov.cn",
+                "url": "https://etax.shandong.chinatax.gov.cn/sxsq-cjpt-web/biz/sxsq/xbqytcsq?yhlx=0"
+              }
+            ]
           },
           {
             "type": "folder",
@@ -987,13 +1036,6 @@
                   },
                   {
                     "type": "link",
-                    "addDate": 1728532557587,
-                    "title": "肉不要钱",
-                    "icon": "https://logo.clearbit.com/roubuyaoqian.com",
-                    "url": "https://roubuyaoqian.com/"
-                  },
-                  {
-                    "type": "link",
                     "addDate": 1728532557846,
                     "title": "易搜-网盘搜索",
                     "icon": "https://logo.clearbit.com/yiso.fun",
@@ -1033,6 +1075,13 @@
                     "title": "奈斯搜索",
                     "icon": "https://logo.clearbit.com/www.niceso.net",
                     "url": "https://www.niceso.net/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728532557587,
+                    "title": "肉不要钱",
+                    "icon": "https://logo.clearbit.com/roubuyaoqian.com",
+                    "url": "https://roubuyaoqian.com/"
                   }
                 ]
               },
@@ -2199,7 +2248,7 @@
                   {
                     "type": "link",
                     "addDate": 1728532557136,
-                    "title": "KeePassXC-Browser | Chrome扩展 - Crx搜搜",
+                    "title": "KeePassXC-Browser - Crx搜搜",
                     "icon": "https://logo.clearbit.com/www.crxsoso.com",
                     "url": "https://www.crxsoso.com/webstore/detail/oboonakemofpalcgghocfoadofidjkkk"
                   },
@@ -2227,30 +2276,44 @@
                   {
                     "type": "link",
                     "addDate": 1728532557881,
-                    "title": "crxMouse Chrome™ 手势",
+                    "title": "crxMouse Chrome™ 手势 - Crx搜搜",
                     "icon": "https://logo.clearbit.com/www.crxsoso.com",
                     "url": "https://www.crxsoso.com/webstore/detail/jlgkpaicikihijadgifklkbpdajbkhjo"
                   },
                   {
                     "type": "link",
                     "addDate": 1728532558113,
-                    "title": "ViolentMonkey 暴力猴",
+                    "title": "ViolentMonkey 暴力猴 - Crx搜搜",
                     "icon": "https://logo.clearbit.com/www.crxsoso.com",
                     "url": "https://www.crxsoso.com/webstore/detail/jinjaccalgkegednnccohejagnlnfdag"
                   },
                   {
                     "type": "link",
                     "addDate": 1728532558392,
-                    "title": "Video Speed Controller | Chrome扩展 - Crx搜搜",
+                    "title": "Video Speed Controller - Crx搜搜",
                     "icon": "https://logo.clearbit.com/www.crxsoso.com",
                     "url": "https://www.crxsoso.com/webstore/detail/nffaoalbilbmmfgbnbgppjihopabppdk"
                   },
                   {
                     "type": "link",
                     "addDate": 1728532558756,
-                    "title": "SuperCopy 超级复制 | Chrome扩展 - Crx搜搜",
+                    "title": "SuperCopy 超级复制 - Crx搜搜",
                     "icon": "https://logo.clearbit.com/www.crxsoso.com",
                     "url": "https://www.crxsoso.com/webstore/detail/onepmapfbjohnegdmfhndpefjkppbjkm"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728629674447,
+                    "title": "MarkMagic - 智能书签管理器 - Crx搜搜",
+                    "icon": "https://logo.clearbit.com/www.crxsoso.com",
+                    "url": "https://www.crxsoso.com/webstore/detail/efpddbdnjokoakknlfljkcndcaonilpg"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728629938661,
+                    "title": "PolyBox - Crx搜搜",
+                    "icon": "https://logo.clearbit.com/www.crxsoso.com",
+                    "url": "https://www.crxsoso.com/webstore/detail/mpndfekdcijnjgfcoghjkhnjmdajhmnf"
                   }
                 ]
               },
@@ -2310,13 +2373,6 @@
                   },
                   {
                     "type": "link",
-                    "addDate": 1728532558114,
-                    "title": "Bookmark Cleaner 一键清理失效书签",
-                    "icon": "https://logo.clearbit.com/microsoftedge.microsoft.com",
-                    "url": "https://microsoftedge.microsoft.com/addons/detail/bookmark-cleaner-%E4%B8%80%E9%94%AE%E6%B8%85%E7%90%86%E5%A4%B1%E6%95%88%E4%B9%A6%E7%AD%BE/ngmgejoidapgeildppmahnlegckjdggm"
-                  },
-                  {
-                    "type": "link",
                     "addDate": 1728532558394,
                     "title": "Enhanced GitHub - Github加速访问",
                     "icon": "https://logo.clearbit.com/microsoftedge.microsoft.com",
@@ -2349,6 +2405,20 @@
                     "title": "Chrome | 潮汐收藏",
                     "icon": "https://logo.clearbit.com/www.tidemark.cc",
                     "url": "https://www.tidemark.cc/#download"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728550676520,
+                    "title": "夸克，浏览器 AI 助手 - Microsoft Edge Addons",
+                    "icon": "https://logo.clearbit.com/microsoftedge.microsoft.com",
+                    "url": "https://microsoftedge.microsoft.com/addons/detail/%E5%A4%B8%E5%85%8B%EF%BC%8C%E6%B5%8F%E8%A7%88%E5%99%A8-ai-%E5%8A%A9%E6%89%8B/enjndociabbicklhimdbcckdibpckfnm"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728629577277,
+                    "title": "Douban Book+",
+                    "icon": "https://logo.clearbit.com/microsoftedge.microsoft.com",
+                    "url": "https://microsoftedge.microsoft.com/addons/detail/douban-book/kfdimcpljilcbhmlogkagbbjpjkdihom"
                   }
                 ]
               },
@@ -2790,6 +2860,13 @@
                     "title": "小白羊 - 阿里第三方网盘",
                     "icon": "https://logo.clearbit.com/xbysite.pages.dev",
                     "url": "https://xbysite.pages.dev/download/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728640587486,
+                    "title": "iDownerGo Video Downloader & Music Converter",
+                    "icon": "https://logo.clearbit.com/idownergo.com",
+                    "url": "https://idownergo.com/"
                   }
                 ]
               },
@@ -3105,6 +3182,13 @@
                     "title": "小蛇浏览器",
                     "icon": "https://logo.clearbit.com/www.52pojie.cn",
                     "url": "https://www.52pojie.cn/thread-1905593-1-1.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728955517101,
+                    "title": "Follow 浏览器",
+                    "icon": "https://logo.clearbit.com/follow.is",
+                    "url": "https://follow.is/"
                   }
                 ]
               },
@@ -5563,6 +5647,13 @@
                 "title": "双卡助手 短信转发",
                 "icon": "https://logo.clearbit.com/smshelper.wisg.cn",
                 "url": "https://smshelper.wisg.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728982551979,
+                "title": "国际版APP",
+                "icon": "https://logo.clearbit.com/pan.quark.cn",
+                "url": "https://pan.quark.cn/s/7aeb697bdc25#/list/share/26ac9ec88e71429ab4ca0b02b57fa82e-%E5%9B%BD%E9%99%85%E7%89%88APP"
               }
             ]
           },
@@ -6333,6 +6424,13 @@
                 "title": "爱下电子书_享受阅读的乐趣！",
                 "icon": "https://logo.clearbit.com/ixdzs8.com",
                 "url": "https://ixdzs8.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728532558976,
+                "title": "国外版 小说更新 需翻墙",
+                "icon": "https://logo.clearbit.com/www.novelupdates.com",
+                "url": "https://www.novelupdates.com/"
               }
             ]
           },
@@ -9014,6 +9112,13 @@
                 "title": "颜文字: AI驱动的颜文字生成器",
                 "icon": "https://logo.clearbit.com/kaomoji.ai",
                 "url": "https://kaomoji.ai/zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1728633802069,
+                "title": "MarryWise - AI相亲分析",
+                "icon": "https://logo.clearbit.com/marrywise.ababtools.com",
+                "url": "https://marrywise.ababtools.com/"
               }
             ]
           },
@@ -9439,6 +9544,34 @@
           },
           {
             "type": "folder",
+            "addDate": 1728973674656,
+            "title": "秒杀活动",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1728973762895,
+                "title": "快手小店 - 秒杀活动",
+                "icon": "https://logo.clearbit.com/s.kwaixiaodian.com",
+                "url": "https://s.kwaixiaodian.com/zone/marketing/seckill/manage"
+              },
+              {
+                "type": "link",
+                "addDate": 1728973783893,
+                "title": "抖店 - 单品直降",
+                "icon": "https://logo.clearbit.com/fxg.jinritemai.com",
+                "url": "https://fxg.jinritemai.com/ffa/marketing/tools/limitsales"
+              },
+              {
+                "type": "link",
+                "addDate": 1728973805443,
+                "title": "微信小店 - 限时抢购",
+                "icon": "https://logo.clearbit.com/store.weixin.qq.com",
+                "url": "https://store.weixin.qq.com/shop/marketing/snapup/list?currentTab=TASK_STATUS_ALL"
+              }
+            ]
+          },
+          {
+            "type": "folder",
             "addDate": 1728532558248,
             "title": "去水印",
             "children": [
@@ -9682,10 +9815,10 @@
               },
               {
                 "type": "link",
-                "addDate": 1728532557546,
-                "title": "MSDN, 我告诉你 - 做一个安静的工具站",
-                "icon": "https://logo.clearbit.com/msdn.itellyou.cn",
-                "url": "https://msdn.itellyou.cn/"
+                "addDate": 1728532558589,
+                "title": "MSDN - 山己几子木",
+                "icon": "https://logo.clearbit.com/msdn.sjjzm.com",
+                "url": "https://msdn.sjjzm.com/"
               },
               {
                 "type": "link",
@@ -9693,6 +9826,13 @@
                 "title": "MSDN",
                 "icon": "https://logo.clearbit.com/next.itellyou.cn",
                 "url": "https://next.itellyou.cn/Original/Index"
+              },
+              {
+                "type": "link",
+                "addDate": 1728532557546,
+                "title": "MSDN, 我告诉你 - 做一个安静的工具站",
+                "icon": "https://logo.clearbit.com/msdn.itellyou.cn",
+                "url": "https://msdn.itellyou.cn/"
               },
               {
                 "type": "link",
@@ -9707,13 +9847,6 @@
                 "title": "HelloWindows.cn - 精校 完整 极致 Windows系统下载仓储站",
                 "icon": "https://logo.clearbit.com/hellowindows.cn",
                 "url": "https://hellowindows.cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1728532558589,
-                "title": "MSDN - 山己几子木",
-                "icon": "https://logo.clearbit.com/msdn.sjjzm.com",
-                "url": "https://msdn.sjjzm.com/"
               },
               {
                 "type": "link",
@@ -9912,6 +10045,13 @@
             "title": "Xcode6.4-9.4",
             "icon": "https://logo.clearbit.com/www.swift51.com",
             "url": "http://www.swift51.com/xcode.htm"
+          },
+          {
+            "type": "link",
+            "addDate": 1728973587346,
+            "title": "CPU性能排行榜 - CPU天梯图",
+            "icon": "https://logo.clearbit.com/cpu.bmcx.com",
+            "url": "https://cpu.bmcx.com/"
           }
         ]
       },
@@ -9975,13 +10115,6 @@
             "title": "语气友好转换器 - GoblinTools",
             "icon": "https://logo.clearbit.com/goblin.tools",
             "url": "https://goblin.tools/Formalizer"
-          },
-          {
-            "type": "link",
-            "addDate": 1728532558976,
-            "title": "国外版 小说更新 需翻墙",
-            "icon": "https://logo.clearbit.com/www.novelupdates.com",
-            "url": "https://www.novelupdates.com/"
           },
           {
             "type": "link",
@@ -13523,6 +13656,13 @@
                 "url": "https://www.harmonyos.com/"
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1729069008882,
+            "title": "ASCII Silhouettify",
+            "icon": "https://logo.clearbit.com/meatfighter.com",
+            "url": "https://meatfighter.com/ascii-silhouettify/spa/index.html#/"
           }
         ]
       },
