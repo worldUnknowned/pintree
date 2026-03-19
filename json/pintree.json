@@ -1063,6 +1063,13 @@
                 "title": "Zeli - 用中文阅读科技新闻",
                 "icon": "https://logo.clearbit.com/zeli.app",
                 "url": "https://zeli.app/zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1772897786638,
+                "title": "划水摸鱼官网",
+                "icon": "https://logo.clearbit.com/huashuimoyu.com",
+                "url": "https://huashuimoyu.com/"
               }
             ]
           },
@@ -3420,6 +3427,13 @@
                     "title": "Follow 浏览器",
                     "icon": "https://logo.clearbit.com/follow.is",
                     "url": "https://follow.is/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1772900670877,
+                    "title": "Tabbit 浏览器 - AI 智能浏览器",
+                    "icon": "https://logo.clearbit.com/www.tabbit-ai.com",
+                    "url": "https://www.tabbit-ai.com/"
                   }
                 ]
               },
@@ -8541,6 +8555,27 @@
             "children": [
               {
                 "type": "link",
+                "addDate": 1744811131549,
+                "title": "智能免费AI聊天工具",
+                "icon": "https://logo.clearbit.com/site.tinycms.xyz",
+                "url": "https://site.tinycms.xyz/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744813003879,
+                "title": "DeepSeek 导航网 | 收录免费 DeepSeek / API",
+                "icon": "https://logo.clearbit.com/deepseek404.com",
+                "url": "https://deepseek404.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811131690,
+                "title": "ChatGPT 账号密码：plusfree",
+                "icon": "https://logo.clearbit.com/free.chatgpt-plus.top",
+                "url": "https://free.chatgpt-plus.top/"
+              },
+              {
+                "type": "link",
                 "addDate": 1744811131418,
                 "title": "chatgpt – 中文官网入口",
                 "icon": "https://logo.clearbit.com/ww9w.com",
@@ -8667,24 +8702,17 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1744811131549,
-                "title": "智能免费AI聊天工具",
-                "icon": "https://logo.clearbit.com/chat.tinycms.xyz",
-                "url": "https://chat.tinycms.xyz:3002/#/"
+                "addDate": 1744811132523,
+                "title": "DeepSeek",
+                "icon": "https://logo.clearbit.com/chat.deepseek.com",
+                "url": "https://chat.deepseek.com/"
               },
               {
                 "type": "link",
-                "addDate": 1744811131690,
-                "title": "ChatGPT 账号密码：plusfree",
-                "icon": "https://logo.clearbit.com/free.chatgpt-plus.top",
-                "url": "https://free.chatgpt-plus.top/"
-              },
-              {
-                "type": "link",
-                "addDate": 1744813003879,
-                "title": "DeepSeek 导航网 | 收录免费 DeepSeek / API",
-                "icon": "https://logo.clearbit.com/deepseek404.com",
-                "url": "https://deepseek404.com/"
+                "addDate": 1744811133044,
+                "title": "豆包",
+                "icon": "https://logo.clearbit.com/www.doubao.com",
+                "url": "https://www.doubao.com/chat/"
               },
               {
                 "type": "link",
@@ -8699,6 +8727,20 @@
                 "title": "腾讯元宝",
                 "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
                 "url": "https://yuanbao.tencent.com/chat"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811133607,
+                "title": "百度 - 文心一言",
+                "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+                "url": "https://yiyan.baidu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1773928570471,
+                "title": "百度文心助手",
+                "icon": "https://logo.clearbit.com/chat.baidu.com",
+                "url": "https://chat.baidu.com/search"
               },
               {
                 "type": "link",
@@ -8723,13 +8765,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1744811133044,
-                "title": "豆包",
-                "icon": "https://logo.clearbit.com/www.doubao.com",
-                "url": "https://www.doubao.com/chat/"
-              },
-              {
-                "type": "link",
                 "addDate": 1744811133193,
                 "title": "海螺AI—MiniMax 旗下",
                 "icon": "https://logo.clearbit.com/hailuoai.com",
@@ -8748,13 +8783,6 @@
                 "title": "讯飞 - 星火认知大模型",
                 "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
                 "url": "https://xinghuo.xfyun.cn/desk"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811133607,
-                "title": "百度 - 文心一言",
-                "icon": "https://logo.clearbit.com/yiyan.baidu.com",
-                "url": "https://yiyan.baidu.com/"
               },
               {
                 "type": "link",
@@ -8902,13 +8930,6 @@
                 "title": "百度文库搜索",
                 "icon": "https://logo.clearbit.com/wenku.baidu.com",
                 "url": "https://wenku.baidu.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811132523,
-                "title": "DeepSeek",
-                "icon": "https://logo.clearbit.com/chat.deepseek.com",
-                "url": "https://chat.deepseek.com/"
               },
               {
                 "type": "link",
@@ -10506,6 +10527,13 @@
                 "children": [
                   {
                     "type": "link",
+                    "addDate": 1744811132678,
+                    "title": "Microsoft-Activation-Scripts",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts"
+                  },
+                  {
+                    "type": "link",
                     "addDate": 1744811131268,
                     "title": "适用于 Windows 的KMS产品密钥",
                     "icon": "https://logo.clearbit.com/learn.microsoft.com",
@@ -10545,20 +10573,6 @@
                     "title": "沧水的KMS服务",
                     "icon": "https://logo.clearbit.com/kms.cangshui.net",
                     "url": "https://kms.cangshui.net/4/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1744811132464,
-                    "title": "Microsoft Activation Scripts (MAS)",
-                    "icon": "https://logo.clearbit.com/massgrave.dev",
-                    "url": "https://massgrave.dev/index.html"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1744811132678,
-                    "title": "Microsoft-Activation-Scripts",
-                    "icon": "https://logo.clearbit.com/github.com",
-                    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts/releases"
                   },
                   {
                     "type": "link",
