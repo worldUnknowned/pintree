@@ -401,6 +401,20 @@
             "children": [
               {
                 "type": "link",
+                "addDate": 1792720350259,
+                "title": "技能人才评价工作网",
+                "icon": "https://logo.clearbit.com/osta.mohrss.gov.cn",
+                "url": "https://osta.mohrss.gov.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1792589897614,
+                "title": "职业技能等级评价机构公示查询系统",
+                "icon": "https://logo.clearbit.com/pjjg.osta.org.cn",
+                "url": "https://pjjg.osta.org.cn/"
+              },
+              {
+                "type": "link",
                 "addDate": 1792506985804,
                 "title": "课程中心-就业创业和职业培训在线服务平台",
                 "icon": "https://logo.clearbit.com/jc.mohrss.gov.cn",
@@ -6232,14 +6246,7 @@
                     "addDate": 1744811132673,
                     "title": "海量精品 Mac Apps 免费分享 - Digit77.com",
                     "icon": "https://logo.clearbit.com/www.digit77.com",
-                    "url": "https://www.digit77.com/macapps/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1744811132813,
-                    "title": "麦氪派",
-                    "icon": "https://logo.clearbit.com/www.waitsun.com",
-                    "url": "https://www.waitsun.com/topics/language"
+                    "url": "https://www.digit77.com/categories/MacApps"
                   },
                   {
                     "type": "link",
@@ -6795,20 +6802,6 @@
                 "title": "kyutai: 文本语音交流",
                 "icon": "https://logo.clearbit.com/kyutai.org",
                 "url": "https://kyutai.org/"
-              },
-              {
-                "type": "link",
-                "addDate": 1791373161024,
-                "title": "Agnes",
-                "icon": "https://logo.clearbit.com/platform.agnes-ai.cn",
-                "url": "https://platform.agnes-ai.cn/settings/apiKeys"
-              },
-              {
-                "type": "link",
-                "addDate": 1792590416878,
-                "title": "OpenCode Console",
-                "icon": "https://logo.clearbit.com/opencode.ai",
-                "url": "https://opencode.ai/console"
               }
             ]
           },
@@ -6942,6 +6935,34 @@
                 "title": "DeepSeek 提示词库",
                 "icon": "https://logo.clearbit.com/api-docs.deepseek.com",
                 "url": "https://api-docs.deepseek.com/zh-cn/prompt-library/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1793018146032,
+            "title": "API Key",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1791373161024,
+                "title": "Agnes",
+                "icon": "https://logo.clearbit.com/platform.agnes-ai.cn",
+                "url": "https://platform.agnes-ai.cn/settings/apiKeys"
+              },
+              {
+                "type": "link",
+                "addDate": 1792590416878,
+                "title": "OpenCode Console",
+                "icon": "https://logo.clearbit.com/opencode.ai",
+                "url": "https://opencode.ai/console"
+              },
+              {
+                "type": "link",
+                "addDate": 1793018201642,
+                "title": "DeepSeek 开放平台",
+                "icon": "https://logo.clearbit.com/platform.deepseek.com",
+                "url": "https://platform.deepseek.com/api_keys"
               },
               {
                 "type": "link",
@@ -6949,6 +6970,27 @@
                 "title": "书生端砚",
                 "icon": "https://logo.clearbit.com/discovery.intern-ai.org.cn",
                 "url": "https://discovery.intern-ai.org.cn/chat"
+              },
+              {
+                "type": "link",
+                "addDate": 1793001952394,
+                "title": "商汤模型 日日新控制台",
+                "icon": "https://logo.clearbit.com/platform.sensenova.cn",
+                "url": "https://platform.sensenova.cn/console"
+              },
+              {
+                "type": "link",
+                "addDate": 1792814703491,
+                "title": "小红书 · Dots API 开放平台",
+                "icon": "https://logo.clearbit.com/dots.ai",
+                "url": "https://dots.ai/platform/apikeys"
+              },
+              {
+                "type": "link",
+                "addDate": 1793020574940,
+                "title": "魔搭社区 - 访问令牌",
+                "icon": "https://logo.clearbit.com/www.modelscope.cn",
+                "url": "https://www.modelscope.cn/my/settings/token"
               }
             ]
           },
@@ -8379,17 +8421,17 @@
               },
               {
                 "type": "link",
+                "addDate": 1792671066647,
+                "title": "0元领华为云AI认证证书，300元云资源券限时领取_开发者学堂-华为云",
+                "icon": "https://logo.clearbit.com/edu.huaweicloud.com",
+                "url": "https://edu.huaweicloud.com/signup/00ce9d4a32584039a9741d8488d16711?channelCode=edu"
+              },
+              {
+                "type": "link",
                 "addDate": 1792573920134,
                 "title": "码道CodeArts",
                 "icon": "https://logo.clearbit.com/devcloud.cn-north-4.huaweicloud.com",
                 "url": "https://devcloud.cn-north-4.huaweicloud.com/chat/home"
-              },
-              {
-                "type": "link",
-                "addDate": 1792589897614,
-                "title": "职业技能等级评价机构公示查询系统",
-                "icon": "https://logo.clearbit.com/pjjg.osta.org.cn",
-                "url": "https://pjjg.osta.org.cn/"
               },
               {
                 "type": "link",
@@ -8414,6 +8456,13 @@
         "addDate": 1744811130041,
         "title": "书籍📚",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1792831010084,
+            "title": "ZLibrary永固工事",
+            "icon": "https://logo.clearbit.com/c-lib.cn",
+            "url": "https://c-lib.cn/sites/347.html"
+          },
           {
             "type": "folder",
             "addDate": 1744811130057,
@@ -8935,7 +8984,7 @@
           {
             "type": "link",
             "addDate": 1744811131670,
-            "title": "Koodo Reader - 在线电子书阅读器",
+            "title": "Koodo Reader",
             "icon": "https://logo.clearbit.com/web.koodoreader.com",
             "url": "https://web.koodoreader.com/#/manager/home"
           },
@@ -8949,7 +8998,7 @@
           {
             "type": "link",
             "addDate": 1744811132182,
-            "title": "古诗文网-古诗文经典传承",
+            "title": "古诗文网",
             "icon": "https://logo.clearbit.com/www.gushiwen.cn",
             "url": "https://www.gushiwen.cn/"
           },
@@ -9120,6 +9169,13 @@
             "title": "医学百科_更靠谱的医学知识",
             "icon": "https://logo.clearbit.com/doc.wiki8.cn",
             "url": "https://doc.wiki8.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1792993836093,
+            "title": "Metis紫微斗数",
+            "icon": "https://logo.clearbit.com/metisziwei.com",
+            "url": "https://metisziwei.com/"
           }
         ]
       },
@@ -11003,6 +11059,20 @@
             "title": "抖音直播间弹幕雷达",
             "icon": "https://logo.clearbit.com/dy.100day.xyz",
             "url": "https://dy.100day.xyz/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1792815855794,
+            "title": "跨境电商",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1792815811707,
+                "title": "Shopee 虾皮",
+                "icon": "https://logo.clearbit.com/shopee.cn",
+                "url": "https://shopee.cn/"
+              }
+            ]
           }
         ]
       },
