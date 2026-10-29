@@ -2211,6 +2211,13 @@
                 "title": "88完美邮箱-www.88.com",
                 "icon": "https://logo.clearbit.com/m.88.com",
                 "url": "https://m.88.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1793064500324,
+                "title": "Outlook",
+                "icon": "https://logo.clearbit.com/outlook.live.com",
+                "url": "https://outlook.live.com/mail/"
               }
             ]
           },
@@ -2993,6 +3000,13 @@
                     "title": "PilotDeck | 首页",
                     "icon": "https://logo.clearbit.com/pilotdeck.openbmb.cn",
                     "url": "https://pilotdeck.openbmb.cn/index.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1793269365900,
+                    "title": "Codex | OpenAI",
+                    "icon": "https://logo.clearbit.com/openai.com",
+                    "url": "https://openai.com/zh-Hans-CN/codex/"
                   }
                 ]
               }
@@ -6991,6 +7005,76 @@
                 "title": "魔搭社区 - 访问令牌",
                 "icon": "https://logo.clearbit.com/www.modelscope.cn",
                 "url": "https://www.modelscope.cn/my/settings/token"
+              },
+              {
+                "type": "link",
+                "addDate": 1793268025648,
+                "title": "智谱丨BigModel 平台",
+                "icon": "https://logo.clearbit.com/bigmodel.cn",
+                "url": "https://bigmodel.cn/console/overview"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1744811133202,
+            "title": "AI音乐",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1744811133338,
+                "title": "Suno AI 创作音乐 - 翻墙",
+                "icon": "https://logo.clearbit.com/suno.com",
+                "url": "https://suno.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1793268741413,
+                "title": "苏诺之音 Suno AI音乐创作平台- 付费",
+                "icon": "https://logo.clearbit.com/www.suno.cn",
+                "url": "https://www.suno.cn/home/#/agent"
+              },
+              {
+                "type": "link",
+                "addDate": 1793268633253,
+                "title": "Mureka：AI音乐创作",
+                "icon": "https://logo.clearbit.com/www.mureka.cn",
+                "url": "https://www.mureka.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811134325,
+                "title": "海螺 MiniMax音乐创作",
+                "icon": "https://logo.clearbit.com/www.minimax.cn",
+                "url": "https://www.minimax.cn/audio/music"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811133614,
+                "title": "海绵音乐",
+                "icon": "https://logo.clearbit.com/www.haimian.com",
+                "url": "https://www.haimian.com/create"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811133878,
+                "title": "Udio | AI Music Generator",
+                "icon": "https://logo.clearbit.com/www.udio.com",
+                "url": "https://www.udio.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811134196,
+                "title": "腾讯音乐·启明星 琴乐大模型",
+                "icon": "https://logo.clearbit.com/y.qq.com",
+                "url": "https://y.qq.com/venus#/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811134379,
+                "title": "AI Lyrics Generator: 歌词生成",
+                "icon": "https://logo.clearbit.com/lyricsgenerator.io",
+                "url": "https://lyricsgenerator.io/"
               }
             ]
           },
@@ -7626,90 +7710,6 @@
                     "title": "CosyVoice 复刻声音",
                     "icon": "https://logo.clearbit.com/kevinwang676-cosyvoice-talktalkai.hf.space",
                     "url": "https://kevinwang676-cosyvoice-talktalkai.hf.space/"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1744811133202,
-                "title": "AI音乐",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1744811133338,
-                    "title": "Suno AI 创作音乐 - 翻墙",
-                    "icon": "https://logo.clearbit.com/suno.com",
-                    "url": "https://suno.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1744811133490,
-                    "title": "Suno AI 音乐创作平台 - 付费",
-                    "icon": "https://logo.clearbit.com/suno.cn",
-                    "url": "https://suno.cn/#/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1744811133614,
-                    "title": "海绵音乐",
-                    "icon": "https://logo.clearbit.com/www.haimian.com",
-                    "url": "https://www.haimian.com/create"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1744811133757,
-                    "title": "Suno 中文站",
-                    "icon": "https://logo.clearbit.com/suno.myaskai.cn",
-                    "url": "https://suno.myaskai.cn/home"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1744811133878,
-                    "title": "Udio | AI Music Generator",
-                    "icon": "https://logo.clearbit.com/www.udio.com",
-                    "url": "https://www.udio.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1744811134032,
-                    "title": "MusicLM - AI生成音乐",
-                    "icon": "https://logo.clearbit.com/musiclm.com",
-                    "url": "https://musiclm.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1744811134126,
-                    "title": "天工AI音乐 - 点击无反应",
-                    "icon": "https://logo.clearbit.com/music.tiangong.cn",
-                    "url": "https://music.tiangong.cn/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1744811134196,
-                    "title": "腾讯音乐·启明星 琴乐大模型",
-                    "icon": "https://logo.clearbit.com/y.qq.com",
-                    "url": "https://y.qq.com/venus#/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1744811134269,
-                    "title": "天工AI音乐智能体",
-                    "icon": "https://logo.clearbit.com/www.tiangong.cn",
-                    "url": "https://www.tiangong.cn/music"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1744811134325,
-                    "title": "海螺音乐",
-                    "icon": "https://logo.clearbit.com/hailuoai.com",
-                    "url": "https://hailuoai.com/music"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1744811134379,
-                    "title": "AI Lyrics Generator: 歌词生成",
-                    "icon": "https://logo.clearbit.com/lyricsgenerator.io",
-                    "url": "https://lyricsgenerator.io/"
                   }
                 ]
               },
@@ -10098,6 +10098,27 @@
                 "title": "Url to Any",
                 "icon": "https://logo.clearbit.com/www.urltoany.com",
                 "url": "https://www.urltoany.com/zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1793111635268,
+                "title": "Web Check",
+                "icon": "https://logo.clearbit.com/web-check.xyz",
+                "url": "https://web-check.xyz/"
+              },
+              {
+                "type": "link",
+                "addDate": 1793111659393,
+                "title": "Whois.com - Domain Names & Identity for Everyone",
+                "icon": "https://logo.clearbit.com/www.whois.com",
+                "url": "https://www.whois.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1793111667757,
+                "title": "域名Whois查询 - 站长工具",
+                "icon": "https://logo.clearbit.com/whois.chinaz.com",
+                "url": "https://whois.chinaz.com/"
               }
             ]
           },
