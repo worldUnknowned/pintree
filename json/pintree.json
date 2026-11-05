@@ -6959,13 +6959,6 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1791373161024,
-                "title": "Agnes",
-                "icon": "https://logo.clearbit.com/platform.agnes-ai.cn",
-                "url": "https://platform.agnes-ai.cn/settings/apiKeys"
-              },
-              {
-                "type": "link",
                 "addDate": 1792590416878,
                 "title": "OpenCode Console",
                 "icon": "https://logo.clearbit.com/opencode.ai",
@@ -6973,10 +6966,24 @@
               },
               {
                 "type": "link",
+                "addDate": 1793327303808,
+                "title": "NVIDIA NIM APIs",
+                "icon": "https://logo.clearbit.com/build.nvidia.com",
+                "url": "https://build.nvidia.com/settings/api-keys"
+              },
+              {
+                "type": "link",
                 "addDate": 1793018201642,
                 "title": "DeepSeek 开放平台",
                 "icon": "https://logo.clearbit.com/platform.deepseek.com",
                 "url": "https://platform.deepseek.com/api_keys"
+              },
+              {
+                "type": "link",
+                "addDate": 1791373161024,
+                "title": "Agnes",
+                "icon": "https://logo.clearbit.com/platform.agnes-ai.cn",
+                "url": "https://platform.agnes-ai.cn/settings/apiKeys"
               },
               {
                 "type": "link",
@@ -7012,6 +7019,13 @@
                 "title": "智谱丨BigModel 平台",
                 "icon": "https://logo.clearbit.com/bigmodel.cn",
                 "url": "https://bigmodel.cn/console/overview"
+              },
+              {
+                "type": "link",
+                "addDate": 1793326922612,
+                "title": "讯飞星辰MaaS",
+                "icon": "https://logo.clearbit.com/maas.xfyun.cn",
+                "url": "https://maas.xfyun.cn/apikey"
               }
             ]
           },
@@ -8484,13 +8498,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1744811130154,
-                "title": "Z-Library有用的链接",
-                "icon": "https://logo.clearbit.com/zh.go-to-library.sk",
-                "url": "https://zh.go-to-library.sk/#useful_link_tab"
-              },
-              {
-                "type": "link",
                 "addDate": 1744811130195,
                 "title": "Z-Library - 可用",
                 "icon": "https://logo.clearbit.com/zh.z-lib.today",
@@ -8502,13 +8509,6 @@
                 "title": "Z-Library – 2",
                 "icon": "https://logo.clearbit.com/zh.z-lib.shop",
                 "url": "https://zh.z-lib.shop/"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811131639,
-                "title": "Z-library Project - sk",
-                "icon": "https://logo.clearbit.com/z-library.sk",
-                "url": "https://z-library.sk/"
               },
               {
                 "type": "link",
@@ -8524,34 +8524,6 @@
             "addDate": 1744811130084,
             "title": "书籍搜索",
             "children": [
-              {
-                "type": "link",
-                "addDate": 1744811130126,
-                "title": "微信读书书架",
-                "icon": "https://logo.clearbit.com/weread.qq.com",
-                "url": "https://weread.qq.com/web/shelf"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811130154,
-                "title": "微信读书-上传书籍",
-                "icon": "https://logo.clearbit.com/weread.qq.com",
-                "url": "https://weread.qq.com/web/upload"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811130196,
-                "title": "24h Book search",
-                "icon": "https://logo.clearbit.com/book.daohangxie.com",
-                "url": "https://book.daohangxie.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811130226,
-                "title": "中医古籍_中医宝典",
-                "icon": "https://logo.clearbit.com/zhongyi.shufaji.com",
-                "url": "http://zhongyi.shufaji.com/"
-              },
               {
                 "type": "link",
                 "addDate": 1744811130580,
@@ -8591,8 +8563,8 @@
                 "type": "link",
                 "addDate": 1744811131814,
                 "title": "知搜",
-                "icon": "https://logo.clearbit.com/zhiso.cc",
-                "url": "https://zhiso.cc/"
+                "icon": "https://logo.clearbit.com/zhiso.top",
+                "url": "https://zhiso.top/"
               },
               {
                 "type": "link",
@@ -8607,13 +8579,6 @@
                 "title": "国家中小学智慧教育平台",
                 "icon": "https://logo.clearbit.com/basic.smartedu.cn",
                 "url": "https://basic.smartedu.cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811132677,
-                "title": "识典古籍-古籍在线阅读平台",
-                "icon": "https://logo.clearbit.com/www.shidianguji.com",
-                "url": "https://www.shidianguji.com/"
               },
               {
                 "type": "link",
@@ -8635,13 +8600,6 @@
                 "title": "时光图书馆--经典珍藏系列",
                 "icon": "https://logo.clearbit.com/atimebook.com",
                 "url": "https://atimebook.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811133310,
-                "title": "找书网_图书信息搜索平台",
-                "icon": "https://logo.clearbit.com/findbooks.eu.org",
-                "url": "https://findbooks.eu.org/"
               },
               {
                 "type": "link",
@@ -8669,14 +8627,7 @@
                 "addDate": 1744811133854,
                 "title": "热点图书网",
                 "icon": "https://logo.clearbit.com/www.happydot.top",
-                "url": "http://www.happydot.top/"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811134019,
-                "title": "书籍知识库",
-                "icon": "https://logo.clearbit.com/www.zhishikoo.com",
-                "url": "https://www.zhishikoo.com/"
+                "url": "https://www.happydot.top/"
               },
               {
                 "type": "link",
@@ -8710,8 +8661,43 @@
                 "type": "link",
                 "addDate": 1760189050206,
                 "title": "SaltyLeo 的书架",
-                "icon": "https://logo.clearbit.com/tstrs.me",
-                "url": "https://tstrs.me/"
+                "icon": "https://logo.clearbit.com/book.saltyleo.com",
+                "url": "https://book.saltyleo.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1793841963007,
+            "title": "读书",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1744811130126,
+                "title": "微信读书书架",
+                "icon": "https://logo.clearbit.com/weread.qq.com",
+                "url": "https://weread.qq.com/web/shelf"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811130154,
+                "title": "微信读书-上传书籍",
+                "icon": "https://logo.clearbit.com/weread.qq.com",
+                "url": "https://weread.qq.com/web/upload"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811132677,
+                "title": "识典古籍-古籍在线阅读平台",
+                "icon": "https://logo.clearbit.com/www.shidianguji.com",
+                "url": "https://www.shidianguji.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811130226,
+                "title": "中医古籍_中医宝典",
+                "icon": "https://logo.clearbit.com/zhongyi.shufaji.com",
+                "url": "http://zhongyi.shufaji.com/"
               }
             ]
           },
