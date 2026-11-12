@@ -1171,10 +1171,10 @@
               },
               {
                 "type": "link",
-                "addDate": 1744811131440,
-                "title": "GitHub中文社区",
-                "icon": "https://logo.clearbit.com/gitcn.org",
-                "url": "https://gitcn.org/"
+                "addDate": 1744811132593,
+                "title": "GitHubDaily",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/GitHubDaily/GitHubDaily"
               },
               {
                 "type": "link",
@@ -1182,6 +1182,13 @@
                 "title": "GitHub 中文排行榜",
                 "icon": "https://logo.clearbit.com/gitcn.org",
                 "url": "https://gitcn.org/top-china"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811131440,
+                "title": "GitHub中文社区",
+                "icon": "https://logo.clearbit.com/gitcn.org",
+                "url": "https://gitcn.org/"
               },
               {
                 "type": "link",
@@ -1196,13 +1203,6 @@
                 "title": "GitHub 热门话题",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/topics"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811132593,
-                "title": "GitHubDaily",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/GitHubDaily/GitHubDaily"
               },
               {
                 "type": "link",
@@ -1224,6 +1224,27 @@
                 "title": "HelloGitHub 分享 GitHub 上入门级、有趣的开源项目",
                 "icon": "https://logo.clearbit.com/hellogithub.com",
                 "url": "https://hellogithub.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1794457411314,
+                "title": "GitHub 中文版",
+                "icon": "https://logo.clearbit.com/git.bdnb.cn",
+                "url": "https://git.bdnb.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1794457764693,
+                "title": "GitHub Proxy 最新地址发布",
+                "icon": "https://logo.clearbit.com/ghproxy.link",
+                "url": "https://ghproxy.link/"
+              },
+              {
+                "type": "link",
+                "addDate": 1794458524578,
+                "title": "SwitchHosts",
+                "icon": "https://logo.clearbit.com/switchhosts.app",
+                "url": "https://switchhosts.app/zh"
               }
             ]
           },
@@ -2409,6 +2430,13 @@
             "title": "Twitter",
             "icon": "https://logo.clearbit.com/twitter.com",
             "url": "https://twitter.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1794477641255,
+            "title": "ima - 腾讯AI知识管家",
+            "icon": "https://logo.clearbit.com/ima.qq.com",
+            "url": "https://ima.qq.com/"
           }
         ]
       },
@@ -2424,10 +2452,10 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1783079820824,
-                "title": "Marvis马维斯",
-                "icon": "https://logo.clearbit.com/marvis.qq.com",
-                "url": "https://marvis.qq.com/"
+                "addDate": 1794361032086,
+                "title": "DeepSeek Harness",
+                "icon": "https://logo.clearbit.com/www.deepseek.com",
+                "url": "https://www.deepseek.com/harness/"
               },
               {
                 "type": "link",
@@ -2438,24 +2466,10 @@
               },
               {
                 "type": "link",
-                "addDate": 1792562590908,
-                "title": "商汤小浣熊",
-                "icon": "https://logo.clearbit.com/xiaohuanxiong.com",
-                "url": "https://xiaohuanxiong.com/work/download"
-              },
-              {
-                "type": "link",
                 "addDate": 1792656764953,
                 "title": "SkillHub - 专为中国用户优化的 AI Skills 社区",
                 "icon": "https://logo.clearbit.com/skillhub.cn",
                 "url": "https://skillhub.cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1792657461085,
-                "title": "PilotDeck | 首页",
-                "icon": "https://logo.clearbit.com/pilotdeck.openbmb.cn",
-                "url": "https://pilotdeck.openbmb.cn/index.html"
               },
               {
                 "type": "link",
@@ -2466,6 +2480,55 @@
               },
               {
                 "type": "link",
+                "addDate": 1792562590908,
+                "title": "商汤小浣熊",
+                "icon": "https://logo.clearbit.com/xiaohuanxiong.com",
+                "url": "https://xiaohuanxiong.com/work/download"
+              },
+              {
+                "type": "link",
+                "addDate": 1794134290500,
+                "title": "智谱 ZCode",
+                "icon": "https://logo.clearbit.com/zcode.z.ai",
+                "url": "https://zcode.z.ai/cn"
+              },
+              {
+                "type": "link",
+                "addDate": 1794386699152,
+                "title": "讯飞Loomy",
+                "icon": "https://logo.clearbit.com/loomy.xunfei.cn",
+                "url": "https://loomy.xunfei.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1794387255836,
+                "title": "Kimi Work",
+                "icon": "https://logo.clearbit.com/www.kimi.ai",
+                "url": "https://www.kimi.ai/zh-hans/products/kimi-work"
+              },
+              {
+                "type": "link",
+                "addDate": 1794448010416,
+                "title": "MiniMax Code",
+                "icon": "https://logo.clearbit.com/agent.minimax.cn",
+                "url": "https://agent.minimax.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1794446561659,
+                "title": "华为云码道CodeArts",
+                "icon": "https://logo.clearbit.com/codearts.huaweicloud.com",
+                "url": "https://codearts.huaweicloud.com/download.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1794136018559,
+                "title": "PilotDeck 开源",
+                "icon": "https://logo.clearbit.com/pilotdeck.openbmb.cn",
+                "url": "https://pilotdeck.openbmb.cn/"
+              },
+              {
+                "type": "link",
                 "addDate": 1794111894764,
                 "title": "DSH Enterprise — 让企业放心规模化使用 Agent",
                 "icon": "https://logo.clearbit.com/dshdesktop.com",
@@ -2473,17 +2536,24 @@
               },
               {
                 "type": "link",
-                "addDate": 1794134290500,
-                "title": "ZCode | 智谱",
-                "icon": "https://logo.clearbit.com/zcode.z.ai",
-                "url": "https://zcode.z.ai/cn"
+                "addDate": 1794449004237,
+                "title": "百智办公 - 团队 AI 办公工作台",
+                "icon": "https://logo.clearbit.com/work.baizhi.cloud",
+                "url": "https://work.baizhi.cloud/"
               },
               {
                 "type": "link",
-                "addDate": 1794136018559,
-                "title": "PilotDeck",
-                "icon": "https://logo.clearbit.com/pilotdeck.openbmb.cn",
-                "url": "https://pilotdeck.openbmb.cn/"
+                "addDate": 1794449360439,
+                "title": "QoderCN",
+                "icon": "https://logo.clearbit.com/qoder.cn",
+                "url": "https://qoder.cn/download"
+              },
+              {
+                "type": "link",
+                "addDate": 1794449943720,
+                "title": "OpenSquilla｜基元律动",
+                "icon": "https://logo.clearbit.com/opensquilla.cn",
+                "url": "https://opensquilla.cn/zh/"
               }
             ]
           },
@@ -2985,7 +3055,7 @@
                     "addDate": 1744811130218,
                     "title": "Gopeed - 一款现代化的下载器",
                     "icon": "https://logo.clearbit.com/gopeed.com",
-                    "url": "https://gopeed.com/zh-CN"
+                    "url": "https://gopeed.com/zh"
                   },
                   {
                     "type": "link",
@@ -3070,6 +3140,20 @@
                     "title": "网易叭哥说-疾速如闪电，开口即成文",
                     "icon": "https://logo.clearbit.com/bug.youdao.com",
                     "url": "https://bug.youdao.com/#/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1794281338563,
+                    "title": "口喷鸡 blurt",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/AGIHunt/blurt/releases"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1794281400387,
+                    "title": "Voicekey",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/J3n5en/voicekey/releases"
                   }
                 ]
               },
@@ -3257,6 +3341,83 @@
               },
               {
                 "type": "folder",
+                "addDate": 1744811131468,
+                "title": "浏览器",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1744811131756,
+                    "title": "ungoogled-chromium",
+                    "icon": "https://logo.clearbit.com/ungoogled-software.github.io",
+                    "url": "https://ungoogled-software.github.io/ungoogled-chromium-binaries/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1744811132617,
+                    "title": "LibreWolf Browser",
+                    "icon": "https://logo.clearbit.com/codeberg.org",
+                    "url": "https://codeberg.org/librewolf"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1744811132794,
+                    "title": "Mullvad Browser Win10+",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/mullvad/mullvad-browser"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1744811132983,
+                    "title": "Pinokio 可以安装AI模型",
+                    "icon": "https://logo.clearbit.com/desktop.pinokio.co",
+                    "url": "https://desktop.pinokio.co/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1772900670877,
+                    "title": "Tabbit 浏览器 - AI 智能浏览器",
+                    "icon": "https://logo.clearbit.com/www.tabbit.com",
+                    "url": "https://www.tabbit.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1794197476197,
+                    "title": "Catsxp浏览器 -- 仅为简约安全",
+                    "icon": "https://logo.clearbit.com/www.catsxp.com",
+                    "url": "https://www.catsxp.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1794281561962,
+                    "title": "Helium浏览器",
+                    "icon": "https://logo.clearbit.com/helium.computer",
+                    "url": "https://helium.computer/download#all-downloads"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1744811131217,
+                "title": "输入法",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1744811131599,
+                    "title": "librime-cloud",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/hchunhui/librime-cloud/releases"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1794200657686,
+                    "title": "智谱 AI 输入法",
+                    "icon": "https://logo.clearbit.com/autoglm.zhipuai.cn",
+                    "url": "https://autoglm.zhipuai.cn/autotyper/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
                 "addDate": 1744811130191,
                 "title": "下载",
                 "children": [
@@ -3270,14 +3431,21 @@
                   {
                     "type": "link",
                     "addDate": 1744811130452,
-                    "title": "NDM 多线程下载器",
+                    "title": "NeatDM",
                     "icon": "https://logo.clearbit.com/www.neatdownloadmanager.com",
                     "url": "https://www.neatdownloadmanager.com/index.php/en/"
                   },
                   {
                     "type": "link",
+                    "addDate": 1794384646805,
+                    "title": "MisterDM",
+                    "icon": "https://logo.clearbit.com/misterdownloadmanager.com",
+                    "url": "https://misterdownloadmanager.com/zh-hans/download.html"
+                  },
+                  {
+                    "type": "link",
                     "addDate": 1744811131205,
-                    "title": "Free Download Manager",
+                    "title": "FreeDM",
                     "icon": "https://logo.clearbit.com/www.freedownloadmanager.org",
                     "url": "https://www.freedownloadmanager.org/zh/download.htm"
                   },
@@ -3381,10 +3549,31 @@
                   },
                   {
                     "type": "link",
+                    "addDate": 1794308394040,
+                    "title": "Crafting Apps - ArtCraft",
+                    "icon": "https://logo.clearbit.com/getartcraft.com",
+                    "url": "https://getartcraft.com/apps"
+                  },
+                  {
+                    "type": "link",
                     "addDate": 1791378548894,
                     "title": "GenOffice",
                     "icon": "https://logo.clearbit.com/genoffice.ai",
                     "url": "https://genoffice.ai/zh-cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1794308695130,
+                    "title": "ONLYOFFICE",
+                    "icon": "https://logo.clearbit.com/www.onlyoffice.com",
+                    "url": "https://www.onlyoffice.com/zh/download-desktop"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1794308775405,
+                    "title": "Apache OpenOffice",
+                    "icon": "https://logo.clearbit.com/www.openoffice.org",
+                    "url": "https://www.openoffice.org/download/index.html"
                   },
                   {
                     "type": "link",
@@ -3537,27 +3726,6 @@
               },
               {
                 "type": "folder",
-                "addDate": 1744811131217,
-                "title": "输入法",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1744811131599,
-                    "title": "librime-cloud",
-                    "icon": "https://logo.clearbit.com/github.com",
-                    "url": "https://github.com/hchunhui/librime-cloud/releases"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1794200657686,
-                    "title": "智谱 AI 输入法",
-                    "icon": "https://logo.clearbit.com/autoglm.zhipuai.cn",
-                    "url": "https://autoglm.zhipuai.cn/autotyper/"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
                 "addDate": 1744811131355,
                 "title": "GitHub",
                 "children": [
@@ -3581,55 +3749,6 @@
                     "title": "SwitchHosts",
                     "icon": "https://logo.clearbit.com/github.com",
                     "url": "https://github.com/oldj/SwitchHosts/releases"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1744811131468,
-                "title": "浏览器",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1744811131756,
-                    "title": "ungoogled-chromium",
-                    "icon": "https://logo.clearbit.com/ungoogled-software.github.io",
-                    "url": "https://ungoogled-software.github.io/ungoogled-chromium-binaries/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1744811132617,
-                    "title": "LibreWolf Browser",
-                    "icon": "https://logo.clearbit.com/codeberg.org",
-                    "url": "https://codeberg.org/librewolf"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1744811132794,
-                    "title": "Mullvad Browser Win10+",
-                    "icon": "https://logo.clearbit.com/github.com",
-                    "url": "https://github.com/mullvad/mullvad-browser"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1744811132983,
-                    "title": "Pinokio 可以安装AI模型",
-                    "icon": "https://logo.clearbit.com/desktop.pinokio.co",
-                    "url": "https://desktop.pinokio.co/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1772900670877,
-                    "title": "Tabbit 浏览器 - AI 智能浏览器",
-                    "icon": "https://logo.clearbit.com/www.tabbit.com",
-                    "url": "https://www.tabbit.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1794197476197,
-                    "title": "Catsxp浏览器 -- 仅为简约安全",
-                    "icon": "https://logo.clearbit.com/www.catsxp.com",
-                    "url": "https://www.catsxp.com/"
                   }
                 ]
               },
@@ -3661,6 +3780,13 @@
                   },
                   {
                     "type": "link",
+                    "addDate": 1744811132618,
+                    "title": "印象笔记",
+                    "icon": "https://logo.clearbit.com/www.yinxiang.com",
+                    "url": "https://www.yinxiang.com/dl-mac/?"
+                  },
+                  {
+                    "type": "link",
                     "addDate": 1744811132078,
                     "title": "wolai：云笔记",
                     "icon": "https://logo.clearbit.com/www.wolai.com",
@@ -3668,17 +3794,24 @@
                   },
                   {
                     "type": "link",
+                    "addDate": 1794288052833,
+                    "title": "WorkBuddy 资料库",
+                    "icon": "https://logo.clearbit.com/www.workbuddy.cn",
+                    "url": "https://www.workbuddy.cn/space/home"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1794477694190,
+                    "title": "ima - 腾讯AI知识管家",
+                    "icon": "https://logo.clearbit.com/ima.qq.com",
+                    "url": "https://ima.qq.com/download"
+                  },
+                  {
+                    "type": "link",
                     "addDate": 1744811132388,
                     "title": "AFFiNE - All In One KnowledgeOS",
                     "icon": "https://logo.clearbit.com/affine.pro",
                     "url": "https://affine.pro/download"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1744811132618,
-                    "title": "印象笔记",
-                    "icon": "https://logo.clearbit.com/www.yinxiang.com",
-                    "url": "https://www.yinxiang.com/products/"
                   },
                   {
                     "type": "link",
@@ -6764,6 +6897,13 @@
               },
               {
                 "type": "link",
+                "addDate": 1744811132196,
+                "title": "Claude",
+                "icon": "https://logo.clearbit.com/claude.com",
+                "url": "https://claude.com/"
+              },
+              {
+                "type": "link",
                 "addDate": 1744811131857,
                 "title": "‎Gemini - 轻松对话，获取创意灵感",
                 "icon": "https://logo.clearbit.com/gemini.google.com",
@@ -6771,10 +6911,10 @@
               },
               {
                 "type": "link",
-                "addDate": 1744811132196,
-                "title": "Claude",
-                "icon": "https://logo.clearbit.com/claude.com",
-                "url": "https://claude.com/"
+                "addDate": 1794447411520,
+                "title": "X AI",
+                "icon": "https://logo.clearbit.com/x.ai",
+                "url": "https://x.ai/"
               },
               {
                 "type": "link",
@@ -6876,24 +7016,24 @@
               },
               {
                 "type": "link",
-                "addDate": 1744811133044,
-                "title": "豆包",
-                "icon": "https://logo.clearbit.com/www.doubao.com",
-                "url": "https://www.doubao.com/chat/"
-              },
-              {
-                "type": "link",
-                "addDate": 1744812911156,
-                "title": "通义 - 你的个人AI助手",
-                "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
-                "url": "https://tongyi.aliyun.com/"
-              },
-              {
-                "type": "link",
                 "addDate": 1744811132878,
                 "title": "腾讯元宝",
                 "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
                 "url": "https://yuanbao.tencent.com/chat"
+              },
+              {
+                "type": "link",
+                "addDate": 1744812911156,
+                "title": "千问",
+                "icon": "https://logo.clearbit.com/chat.qwen.ai",
+                "url": "https://chat.qwen.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811133044,
+                "title": "豆包",
+                "icon": "https://logo.clearbit.com/www.doubao.com",
+                "url": "https://www.doubao.com/chat/"
               },
               {
                 "type": "link",
@@ -6925,20 +7065,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1744811133193,
-                "title": "海螺AI—MiniMax 旗下",
-                "icon": "https://logo.clearbit.com/hailuoai.com",
-                "url": "https://hailuoai.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811133329,
-                "title": "小悟空",
-                "icon": "https://logo.clearbit.com/wukong.com",
-                "url": "https://wukong.com/tool"
-              },
-              {
-                "type": "link",
                 "addDate": 1744811133481,
                 "title": "讯飞 - 星火认知大模型",
                 "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
@@ -6955,8 +7081,8 @@
                 "type": "link",
                 "addDate": 1744811133867,
                 "title": "华为 - 盘古大模型",
-                "icon": "https://logo.clearbit.com/pangu.huaweicloud.com",
-                "url": "https://pangu.huaweicloud.com/"
+                "icon": "https://logo.clearbit.com/www.huaweicloud.com",
+                "url": "https://www.huaweicloud.com/product/pangu/nlp.html"
               },
               {
                 "type": "link",
@@ -6978,20 +7104,6 @@
                 "title": "FastGPT",
                 "icon": "https://logo.clearbit.com/cloud.fastgpt.io",
                 "url": "https://cloud.fastgpt.io/"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811134375,
-                "title": "Effidit",
-                "icon": "https://logo.clearbit.com/effidit.qq.com",
-                "url": "https://effidit.qq.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1760190793271,
-                "title": "DeepSeek 提示词库",
-                "icon": "https://logo.clearbit.com/api-docs.deepseek.com",
-                "url": "https://api-docs.deepseek.com/zh-cn/prompt-library/"
               }
             ]
           },
@@ -7069,6 +7181,13 @@
                 "title": "讯飞星辰MaaS",
                 "icon": "https://logo.clearbit.com/maas.xfyun.cn",
                 "url": "https://maas.xfyun.cn/apikey"
+              },
+              {
+                "type": "link",
+                "addDate": 1794389804739,
+                "title": "API Keys-千问AI平台",
+                "icon": "https://logo.clearbit.com/platform.qianwenai.com",
+                "url": "https://platform.qianwenai.com/home/api-keys"
               }
             ]
           },
@@ -7475,6 +7594,13 @@
                 "title": "腾讯混元文生视频",
                 "icon": "https://logo.clearbit.com/video.hunyuan.tencent.com",
                 "url": "https://video.hunyuan.tencent.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811133193,
+                "title": "海螺AI—MiniMax 旗下",
+                "icon": "https://logo.clearbit.com/hailuoai.com",
+                "url": "https://hailuoai.com/"
               }
             ]
           },
@@ -7905,8 +8031,8 @@
                     "type": "link",
                     "addDate": 1744811134462,
                     "title": "闪剪-AI数字人",
-                    "icon": "https://logo.clearbit.com/shanjian.tv",
-                    "url": "https://shanjian.tv/"
+                    "icon": "https://logo.clearbit.com/app.shanjian.tv",
+                    "url": "https://app.shanjian.tv/"
                   },
                   {
                     "type": "link",
@@ -8098,6 +8224,13 @@
                 "title": "DX-OS",
                 "icon": "https://logo.clearbit.com/dx-os.com",
                 "url": "https://dx-os.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1794363151066,
+                "title": "Magic Resume 简历",
+                "icon": "https://logo.clearbit.com/magicv.art",
+                "url": "https://magicv.art/app/dashboard/resumes"
               }
             ]
           },
@@ -8867,6 +9000,13 @@
                 "title": "知识图谱",
                 "icon": "https://logo.clearbit.com/cnkgraph.com",
                 "url": "https://cnkgraph.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1794360657720,
+                "title": "江山时序 · 中国历史地图时间轴（战国至现代历代疆域、州郡政区与古今地名沿革）",
+                "icon": "https://logo.clearbit.com/deanchen.me",
+                "url": "https://deanchen.me/jiangshan-map/"
               }
             ]
           },
@@ -12080,6 +12220,34 @@
                 "title": "第一教程网 有些无法观看",
                 "icon": "https://logo.clearbit.com/www.diyijc.com",
                 "url": "https://www.diyijc.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1794233596333,
+                "title": "中小学·高中知识图谱",
+                "icon": "https://logo.clearbit.com/math.pansgo.com",
+                "url": "https://math.pansgo.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1760190663745,
+            "title": "菜谱",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1760190655407,
+                "title": "How To Cook",
+                "icon": "https://logo.clearbit.com/howtocook.aiursoft.com",
+                "url": "https://howtocook.aiursoft.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1760190668097,
+                "title": "一饭封神 - AI智能菜谱生成平台",
+                "icon": "https://logo.clearbit.com/eat.lz-t.top",
+                "url": "https://eat.lz-t.top/"
               }
             ]
           },
@@ -12145,27 +12313,6 @@
             "title": "宝贝辅食",
             "icon": "https://logo.clearbit.com/www.bbcook.cn",
             "url": "https://www.bbcook.cn/"
-          },
-          {
-            "type": "folder",
-            "addDate": 1760190663745,
-            "title": "菜谱",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1760190655407,
-                "title": "How To Cook",
-                "icon": "https://logo.clearbit.com/cook.aiursoft.cn",
-                "url": "https://cook.aiursoft.cn/#_6"
-              },
-              {
-                "type": "link",
-                "addDate": 1760190668097,
-                "title": "一饭封神 - AI智能菜谱生成平台",
-                "icon": "https://logo.clearbit.com/eat.lz-t.top",
-                "url": "https://eat.lz-t.top/"
-              }
-            ]
           }
         ]
       },
