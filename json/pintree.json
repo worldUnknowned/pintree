@@ -2452,8 +2452,22 @@
             "children": [
               {
                 "type": "link",
+                "addDate": 1792656764953,
+                "title": "SkillHub - 专为中国用户优化的 AI Skills 社区",
+                "icon": "https://logo.clearbit.com/skillhub.cn",
+                "url": "https://skillhub.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1793269365900,
+                "title": "Codex | OpenAI（macOS 13.0+）",
+                "icon": "https://logo.clearbit.com/openai.com",
+                "url": "https://openai.com/zh-Hans-CN/codex/"
+              },
+              {
+                "type": "link",
                 "addDate": 1794361032086,
-                "title": "DeepSeek Harness",
+                "title": "DeepSeek Harness（macOS 13.0+）",
                 "icon": "https://logo.clearbit.com/www.deepseek.com",
                 "url": "https://www.deepseek.com/harness/"
               },
@@ -2466,20 +2480,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1792656764953,
-                "title": "SkillHub - 专为中国用户优化的 AI Skills 社区",
-                "icon": "https://logo.clearbit.com/skillhub.cn",
-                "url": "https://skillhub.cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1793269365900,
-                "title": "Codex | OpenAI",
-                "icon": "https://logo.clearbit.com/openai.com",
-                "url": "https://openai.com/zh-Hans-CN/codex/"
-              },
-              {
-                "type": "link",
                 "addDate": 1792562590908,
                 "title": "商汤小浣熊",
                 "icon": "https://logo.clearbit.com/xiaohuanxiong.com",
@@ -2488,21 +2488,21 @@
               {
                 "type": "link",
                 "addDate": 1794134290500,
-                "title": "智谱 ZCode",
+                "title": "智谱 ZCode（macOS 13.0+）",
                 "icon": "https://logo.clearbit.com/zcode.z.ai",
                 "url": "https://zcode.z.ai/cn"
               },
               {
                 "type": "link",
                 "addDate": 1794386699152,
-                "title": "讯飞Loomy",
+                "title": "讯飞Loomy（macOS 14.0+）",
                 "icon": "https://logo.clearbit.com/loomy.xunfei.cn",
                 "url": "https://loomy.xunfei.cn/"
               },
               {
                 "type": "link",
                 "addDate": 1794387255836,
-                "title": "Kimi Work",
+                "title": "Kimi Work（Apple 芯片）",
                 "icon": "https://logo.clearbit.com/www.kimi.ai",
                 "url": "https://www.kimi.ai/zh-hans/products/kimi-work"
               },
@@ -2515,8 +2515,29 @@
               },
               {
                 "type": "link",
+                "addDate": 1794550402492,
+                "title": "纳米Work",
+                "icon": "https://logo.clearbit.com/work.n.cn",
+                "url": "https://work.n.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1794537728227,
+                "title": "SCNet（macOS13.0+）",
+                "icon": "https://logo.clearbit.com/www.scnet.cn",
+                "url": "https://www.scnet.cn/ui/mall/client/download"
+              },
+              {
+                "type": "link",
+                "addDate": 1794550670956,
+                "title": "TeleAgent 星辰超级智能体 - 中国电信",
+                "icon": "https://logo.clearbit.com/ta.teleai.com.cn",
+                "url": "https://ta.teleai.com.cn/"
+              },
+              {
+                "type": "link",
                 "addDate": 1794446561659,
-                "title": "华为云码道CodeArts",
+                "title": "华为云码道CodeArts（Apple 芯片）",
                 "icon": "https://logo.clearbit.com/codearts.huaweicloud.com",
                 "url": "https://codearts.huaweicloud.com/download.html"
               },
@@ -2554,6 +2575,13 @@
                 "title": "OpenSquilla｜基元律动",
                 "icon": "https://logo.clearbit.com/opensquilla.cn",
                 "url": "https://opensquilla.cn/zh/"
+              },
+              {
+                "type": "link",
+                "addDate": 1760191909710,
+                "title": "爱派 AiPy",
+                "icon": "https://logo.clearbit.com/www.aipyaipy.com",
+                "url": "https://www.aipyaipy.com/"
               }
             ]
           },
@@ -3336,6 +3364,41 @@
                     "title": "飞连VPN客户端-火山引擎",
                     "icon": "https://logo.clearbit.com/www.volcengine.com",
                     "url": "https://www.volcengine.com/product/feilian/download"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1794540689736,
+                    "title": "Clash ｜ 开源代理客户端",
+                    "icon": "https://logo.clearbit.com/clashapp.org",
+                    "url": "https://clashapp.org/zh-CN"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1794541120657,
+                    "title": "Clash 客户端下载",
+                    "icon": "https://logo.clearbit.com/clashfaq.com",
+                    "url": "https://clashfaq.com/zh-CN/download.html#windows"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1794541188969,
+                    "title": "Clash 客户端下载",
+                    "icon": "https://logo.clearbit.com/clashenglish.com",
+                    "url": "https://clashenglish.com/zh-CN/download.html#linux"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1794541231925,
+                    "title": "Clash 客户端下载",
+                    "icon": "https://logo.clearbit.com/clashcnweb.com",
+                    "url": "https://clashcnweb.com/zh-CN/download.html#macos"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1794540993171,
+                    "title": "畅连加速入口发布页",
+                    "icon": "https://logo.clearbit.com/xn--doy808c.org",
+                    "url": "https://xn--doy808c.org/"
                   }
                 ]
               },
@@ -4090,10 +4153,24 @@
               },
               {
                 "type": "link",
+                "addDate": 1744811134444,
+                "title": "gridplayer 网格播放器",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/vzhd1701/gridplayer/releases/tag/v0.4.3"
+              },
+              {
+                "type": "link",
                 "addDate": 1744811134370,
                 "title": "飞鸟下载器-你的磁力下载伴侣！",
                 "icon": "https://logo.clearbit.com/www.feiniaobt.com",
                 "url": "http://www.feiniaobt.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1794551435536,
+                "title": "VidBee – 免费下载视频",
+                "icon": "https://logo.clearbit.com/vidbee.org",
+                "url": "https://vidbee.org/zh/download/"
               },
               {
                 "type": "link",
@@ -4108,13 +4185,6 @@
                 "title": "He3: 开发者工具箱",
                 "icon": "https://logo.clearbit.com/he3app.com",
                 "url": "https://he3app.com/zh"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811134444,
-                "title": "gridplayer 网格播放器",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/vzhd1701/gridplayer/releases/tag/v0.4.3"
               },
               {
                 "type": "link",
@@ -4153,13 +4223,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1744811134512,
-                "title": "EDRLab - 跨平台桌面阅读应用程序",
-                "icon": "https://logo.clearbit.com/www.edrlab.org",
-                "url": "https://www.edrlab.org/software/"
-              },
-              {
-                "type": "link",
                 "addDate": 1744811134613,
                 "title": "Upscayl - AI 图像变清晰",
                 "icon": "https://logo.clearbit.com/upscayl.org",
@@ -4167,17 +4230,17 @@
               },
               {
                 "type": "link",
+                "addDate": 1744811134512,
+                "title": "EDRLab - 跨平台桌面阅读应用程序",
+                "icon": "https://logo.clearbit.com/www.edrlab.org",
+                "url": "https://www.edrlab.org/software/"
+              },
+              {
+                "type": "link",
                 "addDate": 1744899148408,
                 "title": "解压专家",
                 "icon": "https://logo.clearbit.com/unisapps.com",
                 "url": "https://unisapps.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1760191909710,
-                "title": "爱派（AiPy），超级AI工具人",
-                "icon": "https://logo.clearbit.com/www.aipyaipy.com",
-                "url": "https://www.aipyaipy.com/"
               }
             ]
           },
@@ -4692,15 +4755,15 @@
                     "type": "link",
                     "addDate": 1744811133007,
                     "title": "优酷客户端",
-                    "icon": "https://logo.clearbit.com/youku.com",
-                    "url": "https://youku.com/product/index"
+                    "icon": "https://logo.clearbit.com/www.youku.com",
+                    "url": "https://www.youku.com/ku/product/index"
                   },
                   {
                     "type": "link",
                     "addDate": 1744811133158,
                     "title": "爱奇艺",
-                    "icon": "https://logo.clearbit.com/app.iqiyi.com",
-                    "url": "https://app.iqiyi.com/mac/player/index.html"
+                    "icon": "https://logo.clearbit.com/www.iqiyi.com",
+                    "url": "https://www.iqiyi.com/appstore.html"
                   },
                   {
                     "type": "link",
@@ -6675,197 +6738,232 @@
         "children": [
           {
             "type": "folder",
-            "addDate": 1744811130157,
-            "title": "人工智能",
+            "addDate": 1744811131418,
+            "title": "国内ChatGPT",
             "children": [
               {
                 "type": "link",
-                "addDate": 1744811130222,
-                "title": "人工智能社区 - Free",
-                "icon": "https://logo.clearbit.com/www.cbedai.net",
-                "url": "https://www.cbedai.net/"
+                "addDate": 1744811132523,
+                "title": "DeepSeek",
+                "icon": "https://logo.clearbit.com/chat.deepseek.com",
+                "url": "https://chat.deepseek.com/"
               },
               {
                 "type": "link",
-                "addDate": 1744811131220,
-                "title": "动手学深度学习",
-                "icon": "https://logo.clearbit.com/zh.d2l.ai",
-                "url": "https://zh.d2l.ai/index.html"
+                "addDate": 1744811132878,
+                "title": "腾讯元宝",
+                "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
+                "url": "https://yuanbao.tencent.com/chat"
+              },
+              {
+                "type": "link",
+                "addDate": 1744812911156,
+                "title": "千问",
+                "icon": "https://logo.clearbit.com/chat.qwen.ai",
+                "url": "https://chat.qwen.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811133044,
+                "title": "豆包",
+                "icon": "https://logo.clearbit.com/www.doubao.com",
+                "url": "https://www.doubao.com/chat/"
+              },
+              {
+                "type": "link",
+                "addDate": 1773928570471,
+                "title": "百度文心助手",
+                "icon": "https://logo.clearbit.com/wenxin.baidu.com",
+                "url": "https://wenxin.baidu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811132513,
+                "title": "昆仑 - 天工",
+                "icon": "https://logo.clearbit.com/www.tiangong.cn",
+                "url": "https://www.tiangong.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811132710,
+                "title": "紫东太初",
+                "icon": "https://logo.clearbit.com/www.zidongtaichu.com",
+                "url": "https://www.zidongtaichu.com/#/chat"
+              },
+              {
+                "type": "link",
+                "addDate": 1792634261024,
+                "title": "Z.ai - 智谱",
+                "icon": "https://logo.clearbit.com/zchat.z.ai",
+                "url": "https://zchat.z.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811133481,
+                "title": "讯飞 - 星火认知大模型",
+                "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
+                "url": "https://xinghuo.xfyun.cn/desk"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811133742,
+                "title": "360 - 智脑全家桶",
+                "icon": "https://logo.clearbit.com/ai.360.com",
+                "url": "https://ai.360.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811133867,
+                "title": "华为 - 盘古大模型",
+                "icon": "https://logo.clearbit.com/www.huaweicloud.com",
+                "url": "https://www.huaweicloud.com/product/pangu/nlp.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811134026,
+                "title": "商汤 - 商量SenseChat",
+                "icon": "https://logo.clearbit.com/chat.sensetime.com",
+                "url": "https://chat.sensetime.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1792562915376,
+                "title": "商汤小浣熊",
+                "icon": "https://logo.clearbit.com/xiaohuanxiong.com",
+                "url": "https://xiaohuanxiong.com/work/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811134319,
+                "title": "FastGPT",
+                "icon": "https://logo.clearbit.com/cloud.fastgpt.io",
+                "url": "https://cloud.fastgpt.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1794558734513,
+                "title": "MiniMax",
+                "icon": "https://logo.clearbit.com/www.minimax.cn",
+                "url": "https://www.minimax.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1794558790752,
+                "title": "阶跃星辰",
+                "icon": "https://logo.clearbit.com/www.stepfun.com",
+                "url": "https://www.stepfun.com/"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1744811130201,
-            "title": "ChatGPT学习",
+            "addDate": 1793018146032,
+            "title": "API Key",
             "children": [
               {
                 "type": "link",
-                "addDate": 1744811130238,
-                "title": "Learn Prompting",
-                "icon": "https://logo.clearbit.com/learnprompting.org",
-                "url": "https://learnprompting.org/zh-Hans/docs/intro"
+                "addDate": 1792590416878,
+                "title": "OpenCode Console",
+                "icon": "https://logo.clearbit.com/opencode.ai",
+                "url": "https://opencode.ai/console"
               },
               {
                 "type": "link",
-                "addDate": 1744811130990,
-                "title": "ChatGPT 学习导航",
-                "icon": "https://logo.clearbit.com/learningprompt.wiki",
-                "url": "https://learningprompt.wiki/docs/chatgpt-learning-path"
+                "addDate": 1793327303808,
+                "title": "NVIDIA NIM APIs",
+                "icon": "https://logo.clearbit.com/build.nvidia.com",
+                "url": "https://build.nvidia.com/settings/api-keys"
               },
               {
                 "type": "link",
-                "addDate": 1744811131284,
-                "title": "AwesomeAI · GitLab",
-                "icon": "https://logo.clearbit.com/gitlab.com",
-                "url": "https://gitlab.com/awesomeai/awesome-chatgpt-zh"
+                "addDate": 1793018201642,
+                "title": "DeepSeek 开放平台",
+                "icon": "https://logo.clearbit.com/platform.deepseek.com",
+                "url": "https://platform.deepseek.com/api_keys"
               },
               {
                 "type": "link",
-                "addDate": 1744811131398,
-                "title": "DLAI - Learning Platform Beta",
-                "icon": "https://logo.clearbit.com/learn.deeplearning.ai",
-                "url": "https://learn.deeplearning.ai/"
+                "addDate": 1791373161024,
+                "title": "Agnes",
+                "icon": "https://logo.clearbit.com/platform.agnes-ai.cn",
+                "url": "https://platform.agnes-ai.cn/settings/apiKeys"
               },
               {
                 "type": "link",
-                "addDate": 1744811131524,
-                "title": "OpenAI Help Center",
-                "icon": "https://logo.clearbit.com/help.openai.com",
-                "url": "https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1744811130244,
-            "title": "AIGC 导航",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1744811130988,
-                "title": "ChatGPT123 | ChatGPT导航站、资源站、中文社区",
-                "icon": "https://logo.clearbit.com/chatgpt123.com",
-                "url": "https://chatgpt123.com/"
+                "addDate": 1791373674969,
+                "title": "书生端砚",
+                "icon": "https://logo.clearbit.com/discovery.intern-ai.org.cn",
+                "url": "https://discovery.intern-ai.org.cn/chat"
               },
               {
                 "type": "link",
-                "addDate": 1744811131278,
-                "title": "AIGC导航",
-                "icon": "https://logo.clearbit.com/www.aigc.cn",
-                "url": "https://www.aigc.cn/"
+                "addDate": 1793001952394,
+                "title": "商汤模型 日日新控制台",
+                "icon": "https://logo.clearbit.com/platform.sensenova.cn",
+                "url": "https://platform.sensenova.cn/console"
               },
               {
                 "type": "link",
-                "addDate": 1744811131394,
-                "title": "多搜搜，一切皆可搜索（搜索工具聚合网）",
-                "icon": "https://logo.clearbit.com/duososo.com",
-                "url": "https://duososo.com/"
+                "addDate": 1792814703491,
+                "title": "小红书 · Dots API 开放平台",
+                "icon": "https://logo.clearbit.com/dots.ai",
+                "url": "https://dots.ai/platform/apikeys"
               },
               {
                 "type": "link",
-                "addDate": 1744811131521,
-                "title": "AIHub | AI工具导航",
-                "icon": "https://logo.clearbit.com/www.aihub.cn",
-                "url": "https://www.aihub.cn/"
+                "addDate": 1793020574940,
+                "title": "魔搭社区 - 访问令牌",
+                "icon": "https://logo.clearbit.com/www.modelscope.cn",
+                "url": "https://www.modelscope.cn/my/settings/token"
               },
               {
                 "type": "link",
-                "addDate": 1744811131647,
-                "title": "非猪ai导航",
-                "icon": "https://logo.clearbit.com/feizhuke.com",
-                "url": "https://feizhuke.com/"
+                "addDate": 1793268025648,
+                "title": "智谱丨BigModel 平台",
+                "icon": "https://logo.clearbit.com/bigmodel.cn",
+                "url": "https://bigmodel.cn/console/overview"
               },
               {
                 "type": "link",
-                "addDate": 1744811131822,
-                "title": "AIbase - 智能匹配最适合您的AI产品和网站",
-                "icon": "https://logo.clearbit.com/top.aibase.com",
-                "url": "https://top.aibase.com/"
+                "addDate": 1793326922612,
+                "title": "讯飞星辰MaaS",
+                "icon": "https://logo.clearbit.com/maas.xfyun.cn",
+                "url": "https://maas.xfyun.cn/apikey"
               },
               {
                 "type": "link",
-                "addDate": 1744811132150,
-                "title": "未来百科",
-                "icon": "https://logo.clearbit.com/www.huntagi.com",
-                "url": "https://www.huntagi.com/"
+                "addDate": 1794389804739,
+                "title": "API Keys-千问AI平台",
+                "icon": "https://logo.clearbit.com/platform.qianwenai.com",
+                "url": "https://platform.qianwenai.com/home/api-keys"
               },
               {
                 "type": "link",
-                "addDate": 1744811132471,
-                "title": "AI工具集",
-                "icon": "https://logo.clearbit.com/ai-bot.cn",
-                "url": "https://ai-bot.cn/"
+                "addDate": 1794495652603,
+                "title": "腾讯领取 10 亿 token",
+                "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+                "url": "https://mp.weixin.qq.com/wxamp/subApp/devplan/home?token=1877559029&lang=zh_CN"
               },
               {
                 "type": "link",
-                "addDate": 1744811132684,
-                "title": "AI工具收录 | 「工具就是效率」整理",
-                "icon": "https://logo.clearbit.com/dzu6t0u40s.feishu.cn",
-                "url": "https://dzu6t0u40s.feishu.cn/base/bascnL0IG0qINbTXFznvSjmkKsf?table=tbluBl957wcj0js3&view=vewg3hq3ig"
+                "addDate": 1794537602875,
+                "title": "SCNet API Key",
+                "icon": "https://logo.clearbit.com/www.scnet.cn",
+                "url": "https://www.scnet.cn/ui/console/index.html#/llm/apikeys"
               },
               {
                 "type": "link",
-                "addDate": 1744811132868,
-                "title": "提问APP：免费的AI工具集",
-                "icon": "https://logo.clearbit.com/tiwen.app",
-                "url": "https://tiwen.app/"
+                "addDate": 1794559122811,
+                "title": "MiniMax API 开放平台",
+                "icon": "https://logo.clearbit.com/platform.minimax.cn",
+                "url": "https://platform.minimax.cn/console/keys"
               },
               {
                 "type": "link",
-                "addDate": 1744811133021,
-                "title": "ChatGPT 镜像网站 - 最优网址",
-                "icon": "https://logo.clearbit.com/www.ooopn.com",
-                "url": "https://www.ooopn.com/tool/chatgpt/"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811133170,
-                "title": "AI网址导航 | AI产品及智能工具网站推荐排行榜 - AI神器集",
-                "icon": "https://logo.clearbit.com/hao.logosc.cn",
-                "url": "https://hao.logosc.cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1760190769766,
-                "title": "最好的AI导航站和AI工具列表 - Toolify",
-                "icon": "https://logo.clearbit.com/www.toolify.ai",
-                "url": "https://www.toolify.ai/zh/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1744811131001,
-            "title": "AI排行&对比",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1744811131291,
-                "title": "AI大模型对比测试",
-                "icon": "https://logo.clearbit.com/arena.lmsys.org",
-                "url": "https://arena.lmsys.org/"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811131406,
-                "title": "Hugging Face – The AI community building the future.",
-                "icon": "https://logo.clearbit.com/huggingface.co",
-                "url": "https://huggingface.co/"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811131533,
-                "title": "HuggingFace - Open LLM Leaderboard",
-                "icon": "https://logo.clearbit.com/huggingface.co",
-                "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811131660,
-                "title": "Huggingface - OSQ排行榜",
-                "icon": "https://logo.clearbit.com/huggingface.co",
-                "url": "https://huggingface.co/spaces/Open-Style/OSQ-Leaderboard"
+                "addDate": 1794560022911,
+                "title": "阶跃星辰开放平台",
+                "icon": "https://logo.clearbit.com/platform.stepfun.com",
+                "url": "https://platform.stepfun.com/interface-key"
               }
             ]
           },
@@ -7004,190 +7102,211 @@
           },
           {
             "type": "folder",
-            "addDate": 1744811131418,
-            "title": "国内ChatGPT",
+            "addDate": 1744811130201,
+            "title": "ChatGPT学习",
             "children": [
               {
-                "type": "link",
-                "addDate": 1744811132523,
-                "title": "DeepSeek",
-                "icon": "https://logo.clearbit.com/chat.deepseek.com",
-                "url": "https://chat.deepseek.com/"
+                "type": "folder",
+                "addDate": 1744811130157,
+                "title": "人工智能",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1744811130222,
+                    "title": "人工智能社区 - Free",
+                    "icon": "https://logo.clearbit.com/www.cbedai.net",
+                    "url": "https://www.cbedai.net/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1744811131220,
+                    "title": "动手学深度学习",
+                    "icon": "https://logo.clearbit.com/zh.d2l.ai",
+                    "url": "https://zh.d2l.ai/index.html"
+                  }
+                ]
               },
               {
                 "type": "link",
-                "addDate": 1744811132878,
-                "title": "腾讯元宝",
-                "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
-                "url": "https://yuanbao.tencent.com/chat"
+                "addDate": 1744811130238,
+                "title": "Learn Prompting",
+                "icon": "https://logo.clearbit.com/learnprompting.org",
+                "url": "https://learnprompting.org/zh-Hans/docs/intro"
               },
               {
                 "type": "link",
-                "addDate": 1744812911156,
-                "title": "千问",
-                "icon": "https://logo.clearbit.com/chat.qwen.ai",
-                "url": "https://chat.qwen.ai/"
+                "addDate": 1744811130990,
+                "title": "ChatGPT 学习导航",
+                "icon": "https://logo.clearbit.com/learningprompt.wiki",
+                "url": "https://learningprompt.wiki/docs/chatgpt-learning-path"
               },
               {
                 "type": "link",
-                "addDate": 1744811133044,
-                "title": "豆包",
-                "icon": "https://logo.clearbit.com/www.doubao.com",
-                "url": "https://www.doubao.com/chat/"
+                "addDate": 1744811131284,
+                "title": "AwesomeAI · GitLab",
+                "icon": "https://logo.clearbit.com/gitlab.com",
+                "url": "https://gitlab.com/awesomeai/awesome-chatgpt-zh"
               },
               {
                 "type": "link",
-                "addDate": 1773928570471,
-                "title": "百度文心助手",
-                "icon": "https://logo.clearbit.com/wenxin.baidu.com",
-                "url": "https://wenxin.baidu.com/"
+                "addDate": 1744811131398,
+                "title": "DLAI - Learning Platform Beta",
+                "icon": "https://logo.clearbit.com/learn.deeplearning.ai",
+                "url": "https://learn.deeplearning.ai/"
               },
               {
                 "type": "link",
-                "addDate": 1744811132513,
-                "title": "昆仑 - 天工",
-                "icon": "https://logo.clearbit.com/www.tiangong.cn",
-                "url": "https://www.tiangong.cn/"
+                "addDate": 1744811131524,
+                "title": "OpenAI Help Center",
+                "icon": "https://logo.clearbit.com/help.openai.com",
+                "url": "https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api"
               },
               {
                 "type": "link",
-                "addDate": 1744811132710,
-                "title": "紫东太初",
-                "icon": "https://logo.clearbit.com/www.zidongtaichu.com",
-                "url": "https://www.zidongtaichu.com/#/chat"
+                "addDate": 1794539004277,
+                "title": "CodexGuide",
+                "icon": "https://logo.clearbit.com/codexguide.ai",
+                "url": "https://codexguide.ai/start/02-app-installation.html#%E4%B8%8B%E8%BD%BD"
               },
               {
                 "type": "link",
-                "addDate": 1792634261024,
-                "title": "Z.ai - 智谱",
-                "icon": "https://logo.clearbit.com/zchat.z.ai",
-                "url": "https://zchat.z.ai/"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811133481,
-                "title": "讯飞 - 星火认知大模型",
-                "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
-                "url": "https://xinghuo.xfyun.cn/desk"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811133742,
-                "title": "360 - 智脑全家桶",
-                "icon": "https://logo.clearbit.com/ai.360.com",
-                "url": "https://ai.360.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811133867,
-                "title": "华为 - 盘古大模型",
-                "icon": "https://logo.clearbit.com/www.huaweicloud.com",
-                "url": "https://www.huaweicloud.com/product/pangu/nlp.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811134026,
-                "title": "商汤 - 商量SenseChat",
-                "icon": "https://logo.clearbit.com/chat.sensetime.com",
-                "url": "https://chat.sensetime.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1792562915376,
-                "title": "商汤小浣熊",
-                "icon": "https://logo.clearbit.com/xiaohuanxiong.com",
-                "url": "https://xiaohuanxiong.com/work/home"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811134319,
-                "title": "FastGPT",
-                "icon": "https://logo.clearbit.com/cloud.fastgpt.io",
-                "url": "https://cloud.fastgpt.io/"
+                "addDate": 1794539394682,
+                "title": "接码平台 – HeroSMS",
+                "icon": "https://logo.clearbit.com/hero-sms.com",
+                "url": "https://hero-sms.com/cn"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1793018146032,
-            "title": "API Key",
+            "addDate": 1744811130244,
+            "title": "AIGC 导航",
             "children": [
               {
                 "type": "link",
-                "addDate": 1792590416878,
-                "title": "OpenCode Console",
-                "icon": "https://logo.clearbit.com/opencode.ai",
-                "url": "https://opencode.ai/console"
+                "addDate": 1744811130988,
+                "title": "ChatGPT123 | ChatGPT导航站、资源站、中文社区",
+                "icon": "https://logo.clearbit.com/chatgpt123.com",
+                "url": "https://chatgpt123.com/"
               },
               {
                 "type": "link",
-                "addDate": 1793327303808,
-                "title": "NVIDIA NIM APIs",
-                "icon": "https://logo.clearbit.com/build.nvidia.com",
-                "url": "https://build.nvidia.com/settings/api-keys"
+                "addDate": 1744811131278,
+                "title": "AIGC导航",
+                "icon": "https://logo.clearbit.com/www.aigc.cn",
+                "url": "https://www.aigc.cn/"
               },
               {
                 "type": "link",
-                "addDate": 1793018201642,
-                "title": "DeepSeek 开放平台",
-                "icon": "https://logo.clearbit.com/platform.deepseek.com",
-                "url": "https://platform.deepseek.com/api_keys"
+                "addDate": 1744811131394,
+                "title": "多搜搜，一切皆可搜索（搜索工具聚合网）",
+                "icon": "https://logo.clearbit.com/duososo.com",
+                "url": "https://duososo.com/"
               },
               {
                 "type": "link",
-                "addDate": 1791373161024,
-                "title": "Agnes",
-                "icon": "https://logo.clearbit.com/platform.agnes-ai.cn",
-                "url": "https://platform.agnes-ai.cn/settings/apiKeys"
+                "addDate": 1744811131521,
+                "title": "AIHub | AI工具导航",
+                "icon": "https://logo.clearbit.com/www.aihub.cn",
+                "url": "https://www.aihub.cn/"
               },
               {
                 "type": "link",
-                "addDate": 1791373674969,
-                "title": "书生端砚",
-                "icon": "https://logo.clearbit.com/discovery.intern-ai.org.cn",
-                "url": "https://discovery.intern-ai.org.cn/chat"
+                "addDate": 1744811131647,
+                "title": "非猪ai导航",
+                "icon": "https://logo.clearbit.com/feizhuke.com",
+                "url": "https://feizhuke.com/"
               },
               {
                 "type": "link",
-                "addDate": 1793001952394,
-                "title": "商汤模型 日日新控制台",
-                "icon": "https://logo.clearbit.com/platform.sensenova.cn",
-                "url": "https://platform.sensenova.cn/console"
+                "addDate": 1744811131822,
+                "title": "AIbase - 智能匹配最适合您的AI产品和网站",
+                "icon": "https://logo.clearbit.com/top.aibase.com",
+                "url": "https://top.aibase.com/"
               },
               {
                 "type": "link",
-                "addDate": 1792814703491,
-                "title": "小红书 · Dots API 开放平台",
-                "icon": "https://logo.clearbit.com/dots.ai",
-                "url": "https://dots.ai/platform/apikeys"
+                "addDate": 1744811132150,
+                "title": "未来百科",
+                "icon": "https://logo.clearbit.com/www.huntagi.com",
+                "url": "https://www.huntagi.com/"
               },
               {
                 "type": "link",
-                "addDate": 1793020574940,
-                "title": "魔搭社区 - 访问令牌",
-                "icon": "https://logo.clearbit.com/www.modelscope.cn",
-                "url": "https://www.modelscope.cn/my/settings/token"
+                "addDate": 1744811132471,
+                "title": "AI工具集",
+                "icon": "https://logo.clearbit.com/ai-bot.cn",
+                "url": "https://ai-bot.cn/"
               },
               {
                 "type": "link",
-                "addDate": 1793268025648,
-                "title": "智谱丨BigModel 平台",
-                "icon": "https://logo.clearbit.com/bigmodel.cn",
-                "url": "https://bigmodel.cn/console/overview"
+                "addDate": 1744811132684,
+                "title": "AI工具收录 | 「工具就是效率」整理",
+                "icon": "https://logo.clearbit.com/dzu6t0u40s.feishu.cn",
+                "url": "https://dzu6t0u40s.feishu.cn/base/bascnL0IG0qINbTXFznvSjmkKsf?table=tbluBl957wcj0js3&view=vewg3hq3ig"
               },
               {
                 "type": "link",
-                "addDate": 1793326922612,
-                "title": "讯飞星辰MaaS",
-                "icon": "https://logo.clearbit.com/maas.xfyun.cn",
-                "url": "https://maas.xfyun.cn/apikey"
+                "addDate": 1744811132868,
+                "title": "提问APP：免费的AI工具集",
+                "icon": "https://logo.clearbit.com/tiwen.app",
+                "url": "https://tiwen.app/"
               },
               {
                 "type": "link",
-                "addDate": 1794389804739,
-                "title": "API Keys-千问AI平台",
-                "icon": "https://logo.clearbit.com/platform.qianwenai.com",
-                "url": "https://platform.qianwenai.com/home/api-keys"
+                "addDate": 1744811133021,
+                "title": "ChatGPT 镜像网站 - 最优网址",
+                "icon": "https://logo.clearbit.com/www.ooopn.com",
+                "url": "https://www.ooopn.com/tool/chatgpt/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811133170,
+                "title": "AI网址导航 | AI产品及智能工具网站推荐排行榜 - AI神器集",
+                "icon": "https://logo.clearbit.com/hao.logosc.cn",
+                "url": "https://hao.logosc.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1760190769766,
+                "title": "最好的AI导航站和AI工具列表 - Toolify",
+                "icon": "https://logo.clearbit.com/www.toolify.ai",
+                "url": "https://www.toolify.ai/zh/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1744811131001,
+            "title": "AI排行&对比",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1744811131291,
+                "title": "AI大模型对比测试",
+                "icon": "https://logo.clearbit.com/arena.lmsys.org",
+                "url": "https://arena.lmsys.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811131406,
+                "title": "Hugging Face – The AI community building the future.",
+                "icon": "https://logo.clearbit.com/huggingface.co",
+                "url": "https://huggingface.co/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811131533,
+                "title": "HuggingFace - Open LLM Leaderboard",
+                "icon": "https://logo.clearbit.com/huggingface.co",
+                "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811131660,
+                "title": "Huggingface - OSQ排行榜",
+                "icon": "https://logo.clearbit.com/huggingface.co",
+                "url": "https://huggingface.co/spaces/Open-Style/OSQ-Leaderboard"
               }
             ]
           },
@@ -7437,9 +7556,23 @@
               {
                 "type": "link",
                 "addDate": 1744811132528,
-                "title": "可灵大模型 - 快手",
-                "icon": "https://logo.clearbit.com/klingai.kuaishou.com",
-                "url": "https://klingai.kuaishou.com/"
+                "title": "可灵AI - 快手",
+                "icon": "https://logo.clearbit.com/klingai.com",
+                "url": "https://klingai.com/app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811134487,
+                "title": "海螺视频",
+                "icon": "https://logo.clearbit.com/hailuoai.com",
+                "url": "https://hailuoai.com/video"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811133193,
+                "title": "海螺AI—MiniMax 旗下",
+                "icon": "https://logo.clearbit.com/hailuoai.com",
+                "url": "https://hailuoai.com/"
               },
               {
                 "type": "link",
@@ -7583,24 +7716,10 @@
               },
               {
                 "type": "link",
-                "addDate": 1744811134487,
-                "title": "海螺视频",
-                "icon": "https://logo.clearbit.com/hailuoai.com",
-                "url": "https://hailuoai.com/video"
-              },
-              {
-                "type": "link",
                 "addDate": 1744811134495,
                 "title": "腾讯混元文生视频",
                 "icon": "https://logo.clearbit.com/video.hunyuan.tencent.com",
                 "url": "https://video.hunyuan.tencent.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811133193,
-                "title": "海螺AI—MiniMax 旗下",
-                "icon": "https://logo.clearbit.com/hailuoai.com",
-                "url": "https://hailuoai.com/"
               }
             ]
           },
@@ -7879,6 +7998,13 @@
                     "title": "MidReal - Free AI Story Generator",
                     "icon": "https://logo.clearbit.com/midreal.ai",
                     "url": "https://midreal.ai/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1794542905127,
+                    "title": "项目体验版｜StoryForge 故事熔炉",
+                    "icon": "https://logo.clearbit.com/storyforge-lab.com",
+                    "url": "https://storyforge-lab.com/storyforge/"
                   }
                 ]
               },
@@ -10438,24 +10564,10 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1744811132193,
-                "title": "文叔叔",
-                "icon": "https://logo.clearbit.com/www.wenshushu.cn",
-                "url": "https://www.wenshushu.cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811132496,
-                "title": "悟空快传 | 文件传输助手(永不限速)",
-                "icon": "https://logo.clearbit.com/wkkc.vip",
-                "url": "https://wkkc.vip/"
-              },
-              {
-                "type": "link",
-                "addDate": 1744811132706,
-                "title": "transfer.zip 文件传输",
-                "icon": "https://logo.clearbit.com/transfer.zip",
-                "url": "https://transfer.zip/"
+                "addDate": 1744811133040,
+                "title": "云鸽",
+                "icon": "https://logo.clearbit.com/yunge.in",
+                "url": "https://yunge.in/"
               },
               {
                 "type": "link",
@@ -10466,10 +10578,17 @@
               },
               {
                 "type": "link",
-                "addDate": 1744811133040,
-                "title": "云鸽",
-                "icon": "https://logo.clearbit.com/yunge.in",
-                "url": "https://yunge.in/"
+                "addDate": 1744811132193,
+                "title": "文叔叔",
+                "icon": "https://logo.clearbit.com/www.wenshushu.cn",
+                "url": "https://www.wenshushu.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744811132706,
+                "title": "transfer.zip 文件传输",
+                "icon": "https://logo.clearbit.com/transfer.zip",
+                "url": "https://transfer.zip/"
               },
               {
                 "type": "link",
